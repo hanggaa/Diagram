@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-30T06:56:15.366Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="FeigE42EE5RwdlLnMaeB" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-30T06:56:42.438Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="uss9T1e8mX7C3c0_f1Zr" version="16.1.0" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="868" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,7 +64,7 @@
         <mxCell id="N2taPCmN-jDFq6S7jAZY-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="46JCuXxfw7LI-saH6JU8-6" source="N2taPCmN-jDFq6S7jAZY-29" target="N2taPCmN-jDFq6S7jAZY-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N2taPCmN-jDFq6S7jAZY-29" value="Membuat label item" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;isLoopSub=1;fontSize=10;" vertex="1" parent="46JCuXxfw7LI-saH6JU8-6">
+        <mxCell id="N2taPCmN-jDFq6S7jAZY-29" value="Membaca label item saat membeli barang" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;isLoopSub=1;fontSize=10;verticalAlign=top;" vertex="1" parent="46JCuXxfw7LI-saH6JU8-6">
           <mxGeometry x="80" y="37.5" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="N2taPCmN-jDFq6S7jAZY-30" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;" vertex="1" parent="46JCuXxfw7LI-saH6JU8-6">
