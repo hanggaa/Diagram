@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-30T05:41:34.370Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="khfhKluq1HGUkEHPkNrs" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-30T06:55:17.386Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="hxqliGLu8AcSaADjp4E3" version="16.1.0" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="868" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
         <mxCell id="46JCuXxfw7LI-saH6JU8-6" value="Pelanggan" style="swimlane;horizontal=0;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="80" y="120" width="720" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="N2taPCmN-jDFq6S7jAZY-27" value="Baca label item saat membeli barang" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;fontSize=10;" vertex="1" parent="46JCuXxfw7LI-saH6JU8-6">
+        <mxCell id="N2taPCmN-jDFq6S7jAZY-29" value="Membuat label item" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;isLoopSub=1;fontSize=10;" vertex="1" parent="46JCuXxfw7LI-saH6JU8-6">
           <mxGeometry x="80" y="37.5" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="46JCuXxfw7LI-saH6JU8-7" value="Produsen" style="swimlane;horizontal=0;startSize=23;" parent="1" vertex="1">
@@ -109,8 +109,10 @@
         <mxCell id="N2taPCmN-jDFq6S7jAZY-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="N2taPCmN-jDFq6S7jAZY-16" target="N2taPCmN-jDFq6S7jAZY-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N2taPCmN-jDFq6S7jAZY-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="N2taPCmN-jDFq6S7jAZY-24" target="N2taPCmN-jDFq6S7jAZY-27">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="N2taPCmN-jDFq6S7jAZY-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="N2taPCmN-jDFq6S7jAZY-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="202.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
