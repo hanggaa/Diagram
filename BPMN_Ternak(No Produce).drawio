@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-31T16:21:20.927Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="sU0jgfaeRKD0qawlmcF7" version="16.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-31T16:59:42.996Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="UFqRT-__QDo7ykW6kJWS" version="16.1.2" type="github">
   <diagram id="Ppr8t3euyEViD80xvfqJ" name="Page-1">
-    <mxGraphModel dx="1240" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1117" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -86,15 +86,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DeAB8FuBF1HyqQiYkL0p-38" value="Membaca label item saat membeli barang" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;isLoopSub=1;fontSize=10;verticalAlign=top;" vertex="1" parent="DeAB8FuBF1HyqQiYkL0p-36">
-          <mxGeometry x="80" y="37.5" width="100" height="45" as="geometry" />
+          <mxGeometry x="238" y="40" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="DeAB8FuBF1HyqQiYkL0p-39" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;" vertex="1" parent="DeAB8FuBF1HyqQiYkL0p-36">
-          <mxGeometry x="230" y="40" width="40" height="40" as="geometry" />
+          <mxGeometry x="400" y="42.5" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DeAB8FuBF1HyqQiYkL0p-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="DeAB8FuBF1HyqQiYkL0p-36" source="DeAB8FuBF1HyqQiYkL0p-50" target="DeAB8FuBF1HyqQiYkL0p-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DeAB8FuBF1HyqQiYkL0p-50" value="Terima barang sesuai label" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;fontSize=10;" vertex="1" parent="DeAB8FuBF1HyqQiYkL0p-36">
+          <mxGeometry x="80" y="40" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="DeAB8FuBF1HyqQiYkL0p-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="DeAB8FuBF1HyqQiYkL0p-9" target="DeAB8FuBF1HyqQiYkL0p-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DeAB8FuBF1HyqQiYkL0p-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="DeAB8FuBF1HyqQiYkL0p-47" target="DeAB8FuBF1HyqQiYkL0p-38">
+        <mxCell id="DeAB8FuBF1HyqQiYkL0p-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="DeAB8FuBF1HyqQiYkL0p-47" target="DeAB8FuBF1HyqQiYkL0p-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
