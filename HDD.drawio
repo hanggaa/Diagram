@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T15:25:20.206Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="62k8-s02VWOahIWLqpWl" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-23T15:25:46.523Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="FCcmFwaChNwLUw_X9kFB" version="18.0.7" type="github">
   <diagram id="jtuyKHdaZjFFjnKCldut" name="Page-1">
     <mxGraphModel dx="1021" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,7 +88,7 @@
         <mxCell id="v7JBk7lIwhjM9JGJNWyC-29" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Menerima Barang + Struk Belanja&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="544" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v7JBk7lIwhjM9JGJNWyC-33" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fillColor=default;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="v7JBk7lIwhjM9JGJNWyC-33" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="584" y="850" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
