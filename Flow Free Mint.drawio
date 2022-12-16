@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-16T03:04:25.718Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.2" etag="TXQhET3zQFd4zcH8rZFf" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-16T03:07:50.139Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.2" etag="l_BxNUF72LIh987JMSZF" type="github">
   <diagram id="_smdcac9_WbYGItgKm7C" name="Page-1">
     <mxGraphModel dx="1035" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -54,7 +54,7 @@
           <mxGeometry x="320" y="800" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="57TVYrg5U72w9WgtRQjX-15" value="&lt;b&gt;Off Chain Storage&lt;/b&gt;" style="shape=mxgraph.cisco.storage.relational_database;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="813.5" width="66" height="53" as="geometry" />
+          <mxGeometry x="680" y="801.75" width="80" height="76.5" as="geometry" />
         </mxCell>
         <mxCell id="57TVYrg5U72w9WgtRQjX-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="57TVYrg5U72w9WgtRQjX-22" target="57TVYrg5U72w9WgtRQjX-14">
           <mxGeometry relative="1" as="geometry" />
@@ -64,6 +64,9 @@
         </mxCell>
         <mxCell id="57TVYrg5U72w9WgtRQjX-25" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="320" y="920" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="57TVYrg5U72w9WgtRQjX-30" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Encode address and its total supply in the token’s ID&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="420" y="800" width="244" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
