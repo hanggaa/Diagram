@@ -1,1 +1,147 @@
-<mxfile host="app.diagrams.net" modified="2022-12-20T09:04:17.562Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="M8i3T1qz3L4hGVrknyqC" type="github"><diagram id="DJyC1KRo_Yssen18iTAi">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-20T09:43:46.530Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="XZH_8Y2HUxv7RLxuETxp" type="github">
+  <diagram id="e09bLpUF1ZJtZQuKWmes" name="Page-1">
+    <mxGraphModel dx="880" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Z9Fre3UdySbfOPSyORNE-1" value="The Collector" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5" y="40" width="280" height="1040" as="geometry">
+            <mxRectangle x="20" y="40" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z9Fre3UdySbfOPSyORNE-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Z9Fre3UdySbfOPSyORNE-1" source="Z9Fre3UdySbfOPSyORNE-3" target="Z9Fre3UdySbfOPSyORNE-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9Fre3UdySbfOPSyORNE-3" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="Z9Fre3UdySbfOPSyORNE-1">
+          <mxGeometry x="85" y="40" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9Fre3UdySbfOPSyORNE-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Z9Fre3UdySbfOPSyORNE-1" source="Z9Fre3UdySbfOPSyORNE-5" target="Z9Fre3UdySbfOPSyORNE-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9Fre3UdySbfOPSyORNE-5" value="The collector open the platform" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="Z9Fre3UdySbfOPSyORNE-1">
+          <mxGeometry x="50" y="120" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9Fre3UdySbfOPSyORNE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Z9Fre3UdySbfOPSyORNE-1" source="Z9Fre3UdySbfOPSyORNE-7" target="Z9Fre3UdySbfOPSyORNE-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9Fre3UdySbfOPSyORNE-7" value="Login with Connect to Wallet (Metamask)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="Z9Fre3UdySbfOPSyORNE-1">
+          <mxGeometry x="50" y="200" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9Fre3UdySbfOPSyORNE-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Z9Fre3UdySbfOPSyORNE-1" source="Z9Fre3UdySbfOPSyORNE-9" target="Z9Fre3UdySbfOPSyORNE-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9Fre3UdySbfOPSyORNE-9" value="The collector open the article" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="Z9Fre3UdySbfOPSyORNE-1">
+          <mxGeometry x="50" y="280" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9Fre3UdySbfOPSyORNE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Z9Fre3UdySbfOPSyORNE-1" source="Z9Fre3UdySbfOPSyORNE-11" target="Z9Fre3UdySbfOPSyORNE-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9Fre3UdySbfOPSyORNE-11" value="Collect the article" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="Z9Fre3UdySbfOPSyORNE-1">
+          <mxGeometry x="50" y="360" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9Fre3UdySbfOPSyORNE-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Z9Fre3UdySbfOPSyORNE-1" source="Z9Fre3UdySbfOPSyORNE-12" target="Z9Fre3UdySbfOPSyORNE-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9Fre3UdySbfOPSyORNE-12" value="A collector pay gas fee or article on Optimism Network" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="Z9Fre3UdySbfOPSyORNE-1">
+          <mxGeometry x="50" y="440" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9Fre3UdySbfOPSyORNE-41" value="Sign the collection article" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="Z9Fre3UdySbfOPSyORNE-1">
+          <mxGeometry x="50" y="520" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9Fre3UdySbfOPSyORNE-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Z9Fre3UdySbfOPSyORNE-1" source="Z9Fre3UdySbfOPSyORNE-54" target="Z9Fre3UdySbfOPSyORNE-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9Fre3UdySbfOPSyORNE-54" value="Receive the article NFT" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="Z9Fre3UdySbfOPSyORNE-1">
+          <mxGeometry x="50" y="760" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9Fre3UdySbfOPSyORNE-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;" edge="1" parent="Z9Fre3UdySbfOPSyORNE-1" source="Z9Fre3UdySbfOPSyORNE-56" target="Z9Fre3UdySbfOPSyORNE-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9Fre3UdySbfOPSyORNE-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="Z9Fre3UdySbfOPSyORNE-1" source="Z9Fre3UdySbfOPSyORNE-56" target="Z9Fre3UdySbfOPSyORNE-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9Fre3UdySbfOPSyORNE-56" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="Z9Fre3UdySbfOPSyORNE-1">
+          <mxGeometry x="85" y="840" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9Fre3UdySbfOPSyORNE-58" value="Want to sell the article NFT?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=10;" vertex="1" parent="Z9Fre3UdySbfOPSyORNE-1">
+          <mxGeometry x="135" y="850" width="15" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9Fre3UdySbfOPSyORNE-62" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="Z9Fre3UdySbfOPSyORNE-1">
+          <mxGeometry y="840" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9Fre3UdySbfOPSyORNE-64" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;No&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="Z9Fre3UdySbfOPSyORNE-1">
+          <mxGeometry x="50" y="840" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9Fre3UdySbfOPSyORNE-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;" edge="1" parent="Z9Fre3UdySbfOPSyORNE-1" source="Z9Fre3UdySbfOPSyORNE-65" target="Z9Fre3UdySbfOPSyORNE-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9Fre3UdySbfOPSyORNE-65" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Place an auction or set price for the article NFT on Quix Marketplace&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="Z9Fre3UdySbfOPSyORNE-1">
+          <mxGeometry x="50" y="920" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9Fre3UdySbfOPSyORNE-68" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Yes&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="Z9Fre3UdySbfOPSyORNE-1">
+          <mxGeometry x="105" y="886" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9Fre3UdySbfOPSyORNE-16" value="MirrorXYZ System" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="40" width="280" height="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9Fre3UdySbfOPSyORNE-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="Z9Fre3UdySbfOPSyORNE-16" source="Z9Fre3UdySbfOPSyORNE-19" target="Z9Fre3UdySbfOPSyORNE-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9Fre3UdySbfOPSyORNE-19" value="Take the 2.5% article sales" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="Z9Fre3UdySbfOPSyORNE-16">
+          <mxGeometry x="35" y="520" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9Fre3UdySbfOPSyORNE-59" value="Reduce the supply of article" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="Z9Fre3UdySbfOPSyORNE-16">
+          <mxGeometry x="35" y="600" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9Fre3UdySbfOPSyORNE-29" value="Blockchain System" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="40" width="280" height="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9Fre3UdySbfOPSyORNE-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="Z9Fre3UdySbfOPSyORNE-29" source="Z9Fre3UdySbfOPSyORNE-32" target="Z9Fre3UdySbfOPSyORNE-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9Fre3UdySbfOPSyORNE-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Z9Fre3UdySbfOPSyORNE-29" source="Z9Fre3UdySbfOPSyORNE-32" target="Z9Fre3UdySbfOPSyORNE-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9Fre3UdySbfOPSyORNE-32" value="Generate the contract address of article on blockchain" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="Z9Fre3UdySbfOPSyORNE-29">
+          <mxGeometry x="40" y="600" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9Fre3UdySbfOPSyORNE-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Z9Fre3UdySbfOPSyORNE-29" source="Z9Fre3UdySbfOPSyORNE-35" target="Z9Fre3UdySbfOPSyORNE-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9Fre3UdySbfOPSyORNE-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="Z9Fre3UdySbfOPSyORNE-29" source="Z9Fre3UdySbfOPSyORNE-35" target="Z9Fre3UdySbfOPSyORNE-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9Fre3UdySbfOPSyORNE-35" value="Generate the hash transaction of article NFT ownership proof" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="Z9Fre3UdySbfOPSyORNE-29">
+          <mxGeometry x="40" y="680" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9Fre3UdySbfOPSyORNE-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Z9Fre3UdySbfOPSyORNE-29" source="Z9Fre3UdySbfOPSyORNE-40" target="Z9Fre3UdySbfOPSyORNE-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9Fre3UdySbfOPSyORNE-40" value="Mint the article NFT on Quix Marketplace" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="Z9Fre3UdySbfOPSyORNE-29">
+          <mxGeometry x="40" y="520" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9Fre3UdySbfOPSyORNE-33" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/blockchain/Azure_Blockchain_Service.svg;" vertex="1" parent="Z9Fre3UdySbfOPSyORNE-29">
+          <mxGeometry x="200" y="600" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9Fre3UdySbfOPSyORNE-34" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;Optimism Network&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Z9Fre3UdySbfOPSyORNE-29">
+          <mxGeometry x="175" y="570" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9Fre3UdySbfOPSyORNE-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.98;entryY=0.48;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="Z9Fre3UdySbfOPSyORNE-29" source="Z9Fre3UdySbfOPSyORNE-49" target="Z9Fre3UdySbfOPSyORNE-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9Fre3UdySbfOPSyORNE-49" value="Send the article NFT to the Collector" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="Z9Fre3UdySbfOPSyORNE-29">
+          <mxGeometry x="40" y="760" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9Fre3UdySbfOPSyORNE-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z9Fre3UdySbfOPSyORNE-41" target="Z9Fre3UdySbfOPSyORNE-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9Fre3UdySbfOPSyORNE-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z9Fre3UdySbfOPSyORNE-49" target="Z9Fre3UdySbfOPSyORNE-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9Fre3UdySbfOPSyORNE-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="Z9Fre3UdySbfOPSyORNE-59" target="Z9Fre3UdySbfOPSyORNE-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
