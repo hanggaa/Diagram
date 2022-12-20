@@ -1,11 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-12-20T07:37:14.000Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="qJTYewNz51lj0muuxsnE" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-20T08:11:55.046Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="uMXV2NRqNtJq5vZBvSRc" type="github">
   <diagram id="NBZ8o7tdCCI8y7NwbONE" name="Page-1">
     <mxGraphModel dx="880" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="V7E2Vyfl5AV_ditdAZCh-1" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="80" width="200" height="200" as="geometry" />
+        <mxCell id="V7E2Vyfl5AV_ditdAZCh-1" value="The Author" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="40" width="200" height="1040" as="geometry">
+            <mxRectangle x="20" y="40" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V7E2Vyfl5AV_ditdAZCh-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="V7E2Vyfl5AV_ditdAZCh-1" source="V7E2Vyfl5AV_ditdAZCh-5" target="V7E2Vyfl5AV_ditdAZCh-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V7E2Vyfl5AV_ditdAZCh-5" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="V7E2Vyfl5AV_ditdAZCh-1">
+          <mxGeometry x="75" y="40" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="V7E2Vyfl5AV_ditdAZCh-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="V7E2Vyfl5AV_ditdAZCh-1" source="V7E2Vyfl5AV_ditdAZCh-6" target="V7E2Vyfl5AV_ditdAZCh-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V7E2Vyfl5AV_ditdAZCh-6" value="The author open the platform" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="V7E2Vyfl5AV_ditdAZCh-1">
+          <mxGeometry x="40" y="120" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="V7E2Vyfl5AV_ditdAZCh-8" value="Login with Connect to Wallet (Metamask)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="V7E2Vyfl5AV_ditdAZCh-1">
+          <mxGeometry x="40" y="200" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="V7E2Vyfl5AV_ditdAZCh-2" value="Blockchain System" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="40" width="200" height="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="V7E2Vyfl5AV_ditdAZCh-3" value="MirrorXYZ System" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="40" width="200" height="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="V7E2Vyfl5AV_ditdAZCh-4" value="The Collector" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="40" width="200" height="1040" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
