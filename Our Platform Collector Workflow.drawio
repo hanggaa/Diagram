@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-21T09:07:53.695Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="yfGoM3atK9PEoVRvIMRX" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-21T09:13:19.443Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="q1iKh_8lkLBoyeFSIxzd" type="github">
   <diagram id="2ulhzsWL_8jlf1tnsenT" name="Page-1">
     <mxGraphModel dx="880" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -30,22 +30,22 @@
         <mxCell id="0bVLrpdGHUlPFW4BPUj3-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="0bVLrpdGHUlPFW4BPUj3-1" source="0bVLrpdGHUlPFW4BPUj3-9" target="0bVLrpdGHUlPFW4BPUj3-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0bVLrpdGHUlPFW4BPUj3-9" value="The collector open the article" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="0bVLrpdGHUlPFW4BPUj3-1">
+        <mxCell id="0bVLrpdGHUlPFW4BPUj3-9" value="The collector open the Rich Text" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="0bVLrpdGHUlPFW4BPUj3-1">
           <mxGeometry x="50" y="280" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0bVLrpdGHUlPFW4BPUj3-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="0bVLrpdGHUlPFW4BPUj3-1" source="0bVLrpdGHUlPFW4BPUj3-11" target="0bVLrpdGHUlPFW4BPUj3-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0bVLrpdGHUlPFW4BPUj3-11" value="Collect the article" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="0bVLrpdGHUlPFW4BPUj3-1">
+        <mxCell id="0bVLrpdGHUlPFW4BPUj3-11" value="Collect the Rich Text" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="0bVLrpdGHUlPFW4BPUj3-1">
           <mxGeometry x="50" y="360" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0bVLrpdGHUlPFW4BPUj3-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="0bVLrpdGHUlPFW4BPUj3-1" source="0bVLrpdGHUlPFW4BPUj3-13" target="0bVLrpdGHUlPFW4BPUj3-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0bVLrpdGHUlPFW4BPUj3-13" value="A collector pay gas fee or article on Optimism Network" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="0bVLrpdGHUlPFW4BPUj3-1">
+        <mxCell id="0bVLrpdGHUlPFW4BPUj3-13" value="A collector pay gas fee or article on Polygon Network" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="0bVLrpdGHUlPFW4BPUj3-1">
           <mxGeometry x="50" y="440" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="0bVLrpdGHUlPFW4BPUj3-14" value="Sign the collection article" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="0bVLrpdGHUlPFW4BPUj3-1">
+        <mxCell id="0bVLrpdGHUlPFW4BPUj3-14" value="Sign the collection Rich Text" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="0bVLrpdGHUlPFW4BPUj3-1">
           <mxGeometry x="50" y="520" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0bVLrpdGHUlPFW4BPUj3-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="0bVLrpdGHUlPFW4BPUj3-1" source="0bVLrpdGHUlPFW4BPUj3-16" target="0bVLrpdGHUlPFW4BPUj3-19">
@@ -87,7 +87,7 @@
         <mxCell id="0bVLrpdGHUlPFW4BPUj3-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="0bVLrpdGHUlPFW4BPUj3-26" source="0bVLrpdGHUlPFW4BPUj3-28" target="0bVLrpdGHUlPFW4BPUj3-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0bVLrpdGHUlPFW4BPUj3-28" value="Take the 2.5% article sales" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="0bVLrpdGHUlPFW4BPUj3-26">
+        <mxCell id="0bVLrpdGHUlPFW4BPUj3-28" value="Take the 2.5%-5% Rich Text sales" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="0bVLrpdGHUlPFW4BPUj3-26">
           <mxGeometry x="35" y="520" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0bVLrpdGHUlPFW4BPUj3-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="0bVLrpdGHUlPFW4BPUj3-26" source="0bVLrpdGHUlPFW4BPUj3-30" target="0bVLrpdGHUlPFW4BPUj3-31">
