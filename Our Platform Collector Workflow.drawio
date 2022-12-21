@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-21T09:13:19.443Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="q1iKh_8lkLBoyeFSIxzd" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-21T09:16:10.009Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="h90LVTc_791-ElmSBZ_5" type="github">
   <diagram id="2ulhzsWL_8jlf1tnsenT" name="Page-1">
     <mxGraphModel dx="880" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -51,7 +51,7 @@
         <mxCell id="0bVLrpdGHUlPFW4BPUj3-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="0bVLrpdGHUlPFW4BPUj3-1" source="0bVLrpdGHUlPFW4BPUj3-16" target="0bVLrpdGHUlPFW4BPUj3-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0bVLrpdGHUlPFW4BPUj3-16" value="Receive the article NFT" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="0bVLrpdGHUlPFW4BPUj3-1">
+        <mxCell id="0bVLrpdGHUlPFW4BPUj3-16" value="Receive the Rich Text NFT" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="0bVLrpdGHUlPFW4BPUj3-1">
           <mxGeometry x="50" y="760" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0bVLrpdGHUlPFW4BPUj3-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;" edge="1" parent="0bVLrpdGHUlPFW4BPUj3-1" source="0bVLrpdGHUlPFW4BPUj3-19" target="0bVLrpdGHUlPFW4BPUj3-21">
@@ -75,7 +75,7 @@
         <mxCell id="0bVLrpdGHUlPFW4BPUj3-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;" edge="1" parent="0bVLrpdGHUlPFW4BPUj3-1" source="0bVLrpdGHUlPFW4BPUj3-24" target="0bVLrpdGHUlPFW4BPUj3-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0bVLrpdGHUlPFW4BPUj3-24" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Place an auction or set price for the article NFT on Quix Marketplace&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="0bVLrpdGHUlPFW4BPUj3-1">
+        <mxCell id="0bVLrpdGHUlPFW4BPUj3-24" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Place an auction or set price for the Rich Text NFT on OpenSea Marketplace&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="0bVLrpdGHUlPFW4BPUj3-1">
           <mxGeometry x="50" y="920" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0bVLrpdGHUlPFW4BPUj3-25" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Yes&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="0bVLrpdGHUlPFW4BPUj3-1">
@@ -93,10 +93,10 @@
         <mxCell id="0bVLrpdGHUlPFW4BPUj3-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="0bVLrpdGHUlPFW4BPUj3-26" source="0bVLrpdGHUlPFW4BPUj3-30" target="0bVLrpdGHUlPFW4BPUj3-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0bVLrpdGHUlPFW4BPUj3-30" value="Reduce the supply of article" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="0bVLrpdGHUlPFW4BPUj3-26">
+        <mxCell id="0bVLrpdGHUlPFW4BPUj3-30" value="Reduce the supply Rich Text sales" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="0bVLrpdGHUlPFW4BPUj3-26">
           <mxGeometry x="35" y="600" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="0bVLrpdGHUlPFW4BPUj3-31" value="Adding the article to Collector&#39;s Collection" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="0bVLrpdGHUlPFW4BPUj3-26">
+        <mxCell id="0bVLrpdGHUlPFW4BPUj3-31" value="Adding the Rich Text to Collector&#39;s Collection" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="0bVLrpdGHUlPFW4BPUj3-26">
           <mxGeometry x="35" y="680" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0bVLrpdGHUlPFW4BPUj3-32" value="Blockchain System" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -108,7 +108,7 @@
         <mxCell id="0bVLrpdGHUlPFW4BPUj3-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="0bVLrpdGHUlPFW4BPUj3-32" source="0bVLrpdGHUlPFW4BPUj3-35" target="0bVLrpdGHUlPFW4BPUj3-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0bVLrpdGHUlPFW4BPUj3-35" value="Generate the contract address of article on blockchain" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="0bVLrpdGHUlPFW4BPUj3-32">
+        <mxCell id="0bVLrpdGHUlPFW4BPUj3-35" value="Generate the contract address of Rich Text NFT on blockchain" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="0bVLrpdGHUlPFW4BPUj3-32">
           <mxGeometry x="40" y="600" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0bVLrpdGHUlPFW4BPUj3-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="0bVLrpdGHUlPFW4BPUj3-32" source="0bVLrpdGHUlPFW4BPUj3-38" target="0bVLrpdGHUlPFW4BPUj3-44">
@@ -123,19 +123,19 @@
         <mxCell id="0bVLrpdGHUlPFW4BPUj3-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="0bVLrpdGHUlPFW4BPUj3-32" source="0bVLrpdGHUlPFW4BPUj3-40" target="0bVLrpdGHUlPFW4BPUj3-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0bVLrpdGHUlPFW4BPUj3-40" value="Mint the article NFT on Quix Marketplace" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="0bVLrpdGHUlPFW4BPUj3-32">
+        <mxCell id="0bVLrpdGHUlPFW4BPUj3-40" value="Mint the Rich Text NFT on OpenSea Marketplace" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="0bVLrpdGHUlPFW4BPUj3-32">
           <mxGeometry x="40" y="520" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0bVLrpdGHUlPFW4BPUj3-41" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/blockchain/Azure_Blockchain_Service.svg;" vertex="1" parent="0bVLrpdGHUlPFW4BPUj3-32">
           <mxGeometry x="200" y="600" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="0bVLrpdGHUlPFW4BPUj3-42" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;Optimism Network&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="0bVLrpdGHUlPFW4BPUj3-32">
+        <mxCell id="0bVLrpdGHUlPFW4BPUj3-42" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;Polygon Network&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="0bVLrpdGHUlPFW4BPUj3-32">
           <mxGeometry x="175" y="570" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0bVLrpdGHUlPFW4BPUj3-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.98;entryY=0.48;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="0bVLrpdGHUlPFW4BPUj3-32" source="0bVLrpdGHUlPFW4BPUj3-44" target="0bVLrpdGHUlPFW4BPUj3-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0bVLrpdGHUlPFW4BPUj3-44" value="Send the article NFT to the Collector" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="0bVLrpdGHUlPFW4BPUj3-32">
+        <mxCell id="0bVLrpdGHUlPFW4BPUj3-44" value="Send the Rich Text NFT to the Collector" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="0bVLrpdGHUlPFW4BPUj3-32">
           <mxGeometry x="40" y="760" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0bVLrpdGHUlPFW4BPUj3-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0bVLrpdGHUlPFW4BPUj3-14" target="0bVLrpdGHUlPFW4BPUj3-28">
