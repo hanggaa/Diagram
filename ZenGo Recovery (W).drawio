@@ -1,53 +1,103 @@
-<mxfile host="app.diagrams.net" modified="2023-01-24T08:17:57.796Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Gx8QtLZXeZ9B0YPnXJzP" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-24T08:46:29.516Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="bQk7MERL52YeRH3BEamg" version="20.8.10" type="github">
   <diagram name="Page-1" id="5s8kRnR3LfFR92OnnYp0">
-    <mxGraphModel dx="1257" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1354" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cU_81-K2HkuorXMNshkS-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cU_81-K2HkuorXMNshkS-2" target="cU_81-K2HkuorXMNshkS-4">
+        <mxCell id="cU_81-K2HkuorXMNshkS-16" value="User" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="320" height="880" as="geometry">
+            <mxRectangle x="80" y="80" width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cU_81-K2HkuorXMNshkS-2" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="cU_81-K2HkuorXMNshkS-16">
+          <mxGeometry x="120" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cU_81-K2HkuorXMNshkS-4" value="Open App" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="cU_81-K2HkuorXMNshkS-16">
+          <mxGeometry x="120" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cU_81-K2HkuorXMNshkS-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="cU_81-K2HkuorXMNshkS-16" source="cU_81-K2HkuorXMNshkS-2" target="cU_81-K2HkuorXMNshkS-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cU_81-K2HkuorXMNshkS-2" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="360" y="40" width="80" height="80" as="geometry" />
+        <mxCell id="cU_81-K2HkuorXMNshkS-6" value="Input Email" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="cU_81-K2HkuorXMNshkS-16">
+          <mxGeometry x="120" y="280" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cU_81-K2HkuorXMNshkS-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cU_81-K2HkuorXMNshkS-4" target="cU_81-K2HkuorXMNshkS-6">
+        <mxCell id="cU_81-K2HkuorXMNshkS-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="cU_81-K2HkuorXMNshkS-16" source="cU_81-K2HkuorXMNshkS-4" target="cU_81-K2HkuorXMNshkS-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cU_81-K2HkuorXMNshkS-4" value="Open App" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="360" y="160" width="80" height="80" as="geometry" />
+        <mxCell id="cU_81-K2HkuorXMNshkS-8" value="Add Biometric in App" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="cU_81-K2HkuorXMNshkS-16">
+          <mxGeometry x="120" y="400" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cU_81-K2HkuorXMNshkS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cU_81-K2HkuorXMNshkS-6" target="cU_81-K2HkuorXMNshkS-8">
+        <mxCell id="cU_81-K2HkuorXMNshkS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="cU_81-K2HkuorXMNshkS-16" source="cU_81-K2HkuorXMNshkS-6" target="cU_81-K2HkuorXMNshkS-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cU_81-K2HkuorXMNshkS-6" value="Input Email" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="360" y="280" width="80" height="80" as="geometry" />
+        <mxCell id="cU_81-K2HkuorXMNshkS-32" value="Scan Face Biometric" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="cU_81-K2HkuorXMNshkS-16">
+          <mxGeometry x="120" y="520" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cU_81-K2HkuorXMNshkS-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cU_81-K2HkuorXMNshkS-8" target="cU_81-K2HkuorXMNshkS-10">
+        <mxCell id="cU_81-K2HkuorXMNshkS-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="cU_81-K2HkuorXMNshkS-16" source="cU_81-K2HkuorXMNshkS-39" target="cU_81-K2HkuorXMNshkS-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cU_81-K2HkuorXMNshkS-8" value="Add Biometric in App" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="360" y="400" width="80" height="80" as="geometry" />
+        <mxCell id="cU_81-K2HkuorXMNshkS-39" value="Explore the App" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="cU_81-K2HkuorXMNshkS-16">
+          <mxGeometry x="120" y="640" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cU_81-K2HkuorXMNshkS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cU_81-K2HkuorXMNshkS-10" target="cU_81-K2HkuorXMNshkS-12">
+        <mxCell id="cU_81-K2HkuorXMNshkS-42" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="cU_81-K2HkuorXMNshkS-16">
+          <mxGeometry x="120" y="760" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cU_81-K2HkuorXMNshkS-17" value="System" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="400" y="80" width="320" height="880" as="geometry">
+            <mxRectangle x="80" y="80" width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cU_81-K2HkuorXMNshkS-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="cU_81-K2HkuorXMNshkS-17" source="cU_81-K2HkuorXMNshkS-10" target="cU_81-K2HkuorXMNshkS-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cU_81-K2HkuorXMNshkS-10" value="Create Recovery Kit" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="360" y="520" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="cU_81-K2HkuorXMNshkS-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cU_81-K2HkuorXMNshkS-12" target="cU_81-K2HkuorXMNshkS-14">
+        <mxCell id="cU_81-K2HkuorXMNshkS-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="cU_81-K2HkuorXMNshkS-17" source="cU_81-K2HkuorXMNshkS-10" target="cU_81-K2HkuorXMNshkS-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cU_81-K2HkuorXMNshkS-12" value="Connect to Google Drive Account" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="360" y="640" width="80" height="80" as="geometry" />
+        <mxCell id="cU_81-K2HkuorXMNshkS-10" value="Read Email" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="cU_81-K2HkuorXMNshkS-17">
+          <mxGeometry x="120" y="40" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cU_81-K2HkuorXMNshkS-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cU_81-K2HkuorXMNshkS-14" target="cU_81-K2HkuorXMNshkS-15">
+        <mxCell id="cU_81-K2HkuorXMNshkS-28" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="cU_81-K2HkuorXMNshkS-17">
+          <mxGeometry x="240" y="80" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cU_81-K2HkuorXMNshkS-30" value="Verify the email" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="cU_81-K2HkuorXMNshkS-17">
+          <mxGeometry x="120" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cU_81-K2HkuorXMNshkS-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="cU_81-K2HkuorXMNshkS-17" source="cU_81-K2HkuorXMNshkS-34" target="cU_81-K2HkuorXMNshkS-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cU_81-K2HkuorXMNshkS-14" value="Explore the App" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="360" y="760" width="80" height="80" as="geometry" />
+        <mxCell id="cU_81-K2HkuorXMNshkS-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="cU_81-K2HkuorXMNshkS-17" source="cU_81-K2HkuorXMNshkS-34" target="cU_81-K2HkuorXMNshkS-38">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cU_81-K2HkuorXMNshkS-15" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="360" y="880" width="80" height="80" as="geometry" />
+        <mxCell id="cU_81-K2HkuorXMNshkS-34" value="Read the Biometric" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="cU_81-K2HkuorXMNshkS-17">
+          <mxGeometry x="120" y="520" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cU_81-K2HkuorXMNshkS-36" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="cU_81-K2HkuorXMNshkS-17">
+          <mxGeometry x="240" y="560" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cU_81-K2HkuorXMNshkS-38" value="Login Account" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="cU_81-K2HkuorXMNshkS-17">
+          <mxGeometry x="120" y="640" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cU_81-K2HkuorXMNshkS-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cU_81-K2HkuorXMNshkS-8" target="cU_81-K2HkuorXMNshkS-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="520" />
+              <mxPoint x="440" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cU_81-K2HkuorXMNshkS-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cU_81-K2HkuorXMNshkS-30" target="cU_81-K2HkuorXMNshkS-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="570" />
+              <mxPoint x="240" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cU_81-K2HkuorXMNshkS-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cU_81-K2HkuorXMNshkS-32" target="cU_81-K2HkuorXMNshkS-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cU_81-K2HkuorXMNshkS-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cU_81-K2HkuorXMNshkS-38" target="cU_81-K2HkuorXMNshkS-39">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
