@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-04-22T00:01:05.904Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="xzdJiBKDoaFkMie2QLEi" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-22T00:06:58.360Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="o9PocQt3by1ISvoKOyW4" version="21.2.1" type="github">
   <diagram name="Page-1" id="IOx3L2gT1lAjid3hQ-a9">
-    <mxGraphModel dx="1035" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1257" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="MqbVAJrmVxTxifl1eM4A-1" value="" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_128x128.png" parent="1" vertex="1">
           <mxGeometry x="80" y="120" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-Np9GkB7kijbRWwin-eq-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MqbVAJrmVxTxifl1eM4A-2" target="-Np9GkB7kijbRWwin-eq-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MqbVAJrmVxTxifl1eM4A-2" value="" style="image;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/key.svg;" parent="1" vertex="1">
           <mxGeometry x="200" y="158" width="120" height="80" as="geometry" />
@@ -13,11 +16,17 @@
         <mxCell id="-Np9GkB7kijbRWwin-eq-1" value="" style="image;html=1;image=img/lib/clip_art/people/Telesales_Man_128x128.png;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="80" y="280" width="120" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="-Np9GkB7kijbRWwin-eq-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Np9GkB7kijbRWwin-eq-2" target="-Np9GkB7kijbRWwin-eq-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-Np9GkB7kijbRWwin-eq-2" value="" style="image;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/key.svg;" vertex="1" parent="1">
           <mxGeometry x="200" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-Np9GkB7kijbRWwin-eq-3" value="" style="image;html=1;image=img/lib/clip_art/people/Waiter_128x128.png" vertex="1" parent="1">
           <mxGeometry x="80" y="440" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-Np9GkB7kijbRWwin-eq-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Np9GkB7kijbRWwin-eq-4" target="-Np9GkB7kijbRWwin-eq-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-Np9GkB7kijbRWwin-eq-4" value="" style="image;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/key.svg;" vertex="1" parent="1">
           <mxGeometry x="200" y="480" width="120" height="80" as="geometry" />
@@ -25,14 +34,17 @@
         <mxCell id="-Np9GkB7kijbRWwin-eq-5" value="" style="image;html=1;image=img/lib/clip_art/people/Worker_Black_128x128.png" vertex="1" parent="1">
           <mxGeometry x="80" y="600" width="120" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="-Np9GkB7kijbRWwin-eq-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Np9GkB7kijbRWwin-eq-6" target="-Np9GkB7kijbRWwin-eq-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-Np9GkB7kijbRWwin-eq-6" value="" style="image;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/key.svg;" vertex="1" parent="1">
           <mxGeometry x="200" y="640" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-Np9GkB7kijbRWwin-eq-7" value="" style="image;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Files.svg;" vertex="1" parent="1">
-          <mxGeometry x="440" y="320" width="80" height="80" as="geometry" />
+          <mxGeometry x="400" y="400" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-Np9GkB7kijbRWwin-eq-8" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/blockchain/Azure_Blockchain_Service.svg;" vertex="1" parent="1">
-          <mxGeometry x="600" y="320" width="80" height="80" as="geometry" />
+          <mxGeometry x="560" y="400" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
