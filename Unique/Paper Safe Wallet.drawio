@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-22T00:24:40.909Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="IY-yl1W0ylDwWxgVJGL-" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-22T00:25:30.214Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="DPa6ZWYcG5w6Hs8A0Ct2" version="21.2.1" type="github">
   <diagram name="Page-1" id="IOx3L2gT1lAjid3hQ-a9">
     <mxGraphModel dx="1257" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="-Np9GkB7kijbRWwin-eq-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="-Np9GkB7kijbRWwin-eq-4" target="-Np9GkB7kijbRWwin-eq-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-Np9GkB7kijbRWwin-eq-4" value="" style="image;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/key.svg;" vertex="1" parent="1">
+        <mxCell id="-Np9GkB7kijbRWwin-eq-4" value="" style="image;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/key.svg;imageBackground=none;imageBorder=none;" vertex="1" parent="1">
           <mxGeometry x="200" y="480" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-Np9GkB7kijbRWwin-eq-5" value="" style="image;html=1;image=img/lib/clip_art/people/Worker_Black_128x128.png" vertex="1" parent="1">
