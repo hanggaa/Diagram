@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-22T04:48:37.293Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="aNFDCQEdNZRzMceEB0yI" version="21.2.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-04-22T04:48:48.569Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="yifyZPPzB5EaqIdcqIxZ" version="21.2.1" type="github" pages="3">
   <diagram name="Safe Architecture" id="IOx3L2gT1lAjid3hQ-a9">
     <mxGraphModel dx="1600" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -111,6 +111,14 @@
         <mxCell id="-Np9GkB7kijbRWwin-eq-33" value="Block (ETH Chain)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="910" y="690" width="180" height="40" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="w5unHsZ6UBafx1IVKqxA" name="Arweave&#39;s Architecture">
+    <mxGraphModel dx="1467" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
@@ -337,14 +345,6 @@
         <mxCell id="XF2-_GYOnff6vu0fQWQ5-59" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 20px;&quot;&gt;Burn Address&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="1">
           <mxGeometry x="958.246666666667" y="814" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="w5unHsZ6UBafx1IVKqxA" name="Arweave&#39;s Architecture">
-    <mxGraphModel dx="880" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
