@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-22T04:56:30.519Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="nAF-LYFZNHZ_CohxGYK9" version="21.2.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-04-22T09:09:33.978Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="CPB4HlUShXFN5WaVTs2V" version="21.2.1" type="github" pages="3">
   <diagram name="Safe Architecture" id="IOx3L2gT1lAjid3hQ-a9">
     <mxGraphModel dx="1600" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -99,10 +99,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="w5unHsZ6UBafx1IVKqxA" name="Arweave&#39;s Architecture">
-    <mxGraphModel dx="1467" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1760" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SXMye8TO8dPIjtV04A-y-1" value="" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="120" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
