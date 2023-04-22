@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-10T09:59:48.551Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="KXKyXa4dVuEjlKm9YHT_" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-22T04:44:52.117Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="NlnZXHt7Q3hD7CvS-d2w" version="21.2.1" type="github">
   <diagram id="9plNpknjNFVFyo-J8xHK" name="Page-1">
-    <mxGraphModel dx="2170" dy="1105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1600" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -77,14 +77,6 @@
         <mxCell id="Vhi3KRexP29KDQ3yzHp9-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#009900;" parent="1" source="Vhi3KRexP29KDQ3yzHp9-5" target="Vhi3KRexP29KDQ3yzHp9-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1h7h3pkxKaIBQhM7zYnT-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.494;entryY=1.04;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;strokeColor=#009900;strokeWidth=2;" parent="1" source="Vhi3KRexP29KDQ3yzHp9-5" target="Vhi3KRexP29KDQ3yzHp9-8" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="749" y="390" />
-              <mxPoint x="479" y="390" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Vhi3KRexP29KDQ3yzHp9-5" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/blockchain/Azure_Blockchain_Service.svg;" parent="1" vertex="1">
           <mxGeometry x="715" y="294" width="68" height="68" as="geometry" />
         </mxCell>
@@ -99,14 +91,6 @@
         </mxCell>
         <mxCell id="Vhi3KRexP29KDQ3yzHp9-7" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/blockchain/Azure_Blockchain_Service.svg;" parent="1" vertex="1">
           <mxGeometry x="535" y="294" width="68" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="Vhi3KRexP29KDQ3yzHp9-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=-0.034;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#009900;strokeWidth=2;" parent="1" source="Vhi3KRexP29KDQ3yzHp9-8" target="Vhi3KRexP29KDQ3yzHp9-5" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="475" y="274" />
-              <mxPoint x="749" y="274" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="Spx2tbTJsxM56a31R3Uz-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=20;strokeColor=#009900;strokeWidth=2;" parent="1" source="Vhi3KRexP29KDQ3yzHp9-8" target="pH82jSyFGjiYb9OjTthV-6" edge="1">
           <mxGeometry relative="1" as="geometry">
