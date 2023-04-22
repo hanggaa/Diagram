@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-22T02:03:08.528Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="MevujpfxYpyB2j42F4uQ" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-22T02:03:26.515Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="wzhF6izFqf2UVDfebY8W" version="21.2.1" type="github">
   <diagram name="Safe Architecture" id="IOx3L2gT1lAjid3hQ-a9">
     <mxGraphModel dx="1257" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -88,7 +88,7 @@
           <mxGeometry x="880" y="400" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-Np9GkB7kijbRWwin-eq-27" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="560" width="280" height="180" as="geometry" />
+          <mxGeometry x="840" y="560" width="260" height="180" as="geometry" />
         </mxCell>
         <mxCell id="-Np9GkB7kijbRWwin-eq-26" value="" style="image;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/key.svg;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="840" y="570" width="60" height="40" as="geometry" />
