@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-22T10:19:56.190Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="7H9nHhIiM0n9Xv1SaGS2" version="21.2.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-04-22T10:21:27.660Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="IZSAXkd9Ma7CYz2EHZ4F" version="21.2.1" type="github" pages="3">
   <diagram name="Safe Architecture" id="IOx3L2gT1lAjid3hQ-a9">
     <mxGraphModel dx="1600" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -103,11 +103,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SXMye8TO8dPIjtV04A-y-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="SXMye8TO8dPIjtV04A-y-1" target="SXMye8TO8dPIjtV04A-y-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SXMye8TO8dPIjtV04A-y-1" value="" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_128x128.png" vertex="1" parent="1">
           <mxGeometry x="80" y="280" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="SXMye8TO8dPIjtV04A-y-2" value="" style="image;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/azure_stack/Plans.svg;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="240" y="280" width="80" height="80" as="geometry" />
+          <mxGeometry x="280" y="280" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
