@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-23T03:41:46.431Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="lfb-hVXH8kIXF3YDLHdP" version="21.2.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-04-23T03:42:27.426Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="dPpGfz3Q9cN-sgGMNrck" version="21.2.1" type="github" pages="3">
   <diagram name="Safe Architecture" id="IOx3L2gT1lAjid3hQ-a9">
     <mxGraphModel dx="1600" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -211,6 +211,27 @@
         </mxCell>
         <mxCell id="CP3Dp1QIodCgdnW4KQoD-36" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Block Data&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="CP3Dp1QIodCgdnW4KQoD-35">
           <mxGeometry y="26" width="80" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="gsuxkVLerSSLVYIiLSzx-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="560" width="260" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="gsuxkVLerSSLVYIiLSzx-2" value="" style="image;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/key.svg;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="840" y="570" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gsuxkVLerSSLVYIiLSzx-3" value="" style="image;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Files.svg;" vertex="1" parent="1">
+          <mxGeometry x="850" y="630" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gsuxkVLerSSLVYIiLSzx-4" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/blockchain/Azure_Blockchain_Service.svg;" vertex="1" parent="1">
+          <mxGeometry x="850" y="690" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gsuxkVLerSSLVYIiLSzx-5" value="Address" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="910" y="570" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gsuxkVLerSSLVYIiLSzx-6" value="Smart Contract" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="910" y="630" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gsuxkVLerSSLVYIiLSzx-7" value="Block (ETH Chain)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="910" y="690" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
