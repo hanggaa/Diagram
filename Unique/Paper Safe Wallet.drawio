@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-23T06:27:37.754Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="5HuSkxrOQyq8JNlGRdmV" version="21.2.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-04-23T09:31:02.266Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Ln2VKIimsEtvNJHkQIBa" version="21.2.1" type="github" pages="4">
   <diagram name="Safe Architecture" id="IOx3L2gT1lAjid3hQ-a9">
     <mxGraphModel dx="1600" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -463,36 +463,21 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Y7Et3hiF30qo9AlHDzUd" name="BPMN">
-    <mxGraphModel dx="1956" dy="987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1100" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gPIbppBy656NcaDnPqYF-1" value="Famous Manufacture" style="swimlane;horizontal=0;fillColor=#dae8fc;strokeColor=#6c8ebf;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="110" y="514" width="880" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="gPIbppBy656NcaDnPqYF-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="gPIbppBy656NcaDnPqYF-1" source="gPIbppBy656NcaDnPqYF-3" target="gPIbppBy656NcaDnPqYF-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gPIbppBy656NcaDnPqYF-3" value="Receive goods acconrding to the label" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;fontSize=10;" vertex="1" parent="gPIbppBy656NcaDnPqYF-1">
-          <mxGeometry x="80" y="37.5" width="100" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="gPIbppBy656NcaDnPqYF-4" value="Send goods according to the label" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;fontSize=10;" vertex="1" parent="gPIbppBy656NcaDnPqYF-1">
-          <mxGeometry x="390" y="37.5" width="100" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="gPIbppBy656NcaDnPqYF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="gPIbppBy656NcaDnPqYF-1" source="gPIbppBy656NcaDnPqYF-6" target="gPIbppBy656NcaDnPqYF-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gPIbppBy656NcaDnPqYF-6" value="Create Item Label" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;isLoopSub=1;fontSize=10;" vertex="1" parent="gPIbppBy656NcaDnPqYF-1">
-          <mxGeometry x="240" y="37.5" width="100" height="45" as="geometry" />
-        </mxCell>
         <mxCell id="gPIbppBy656NcaDnPqYF-7" value="Retail" style="swimlane;horizontal=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="110" y="354" width="880" height="120" as="geometry" />
+          <mxGeometry x="120" y="520" width="880" height="120" as="geometry" />
         </mxCell>
         <mxCell id="gPIbppBy656NcaDnPqYF-8" value="Receive goods according to the label" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;fontSize=10;" vertex="1" parent="gPIbppBy656NcaDnPqYF-7">
           <mxGeometry x="80" y="37.5" width="100" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="gPIbppBy656NcaDnPqYF-20" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FF0000;" vertex="1" parent="gPIbppBy656NcaDnPqYF-7">
+          <mxGeometry x="290" y="42.5" width="40" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="gPIbppBy656NcaDnPqYF-9" value="Restaurant" style="swimlane;horizontal=0;startSize=23;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="110" y="194" width="880" height="120" as="geometry" />
+          <mxGeometry x="120" y="360" width="880" height="120" as="geometry" />
         </mxCell>
         <mxCell id="gPIbppBy656NcaDnPqYF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="gPIbppBy656NcaDnPqYF-9" source="gPIbppBy656NcaDnPqYF-11" target="gPIbppBy656NcaDnPqYF-13">
           <mxGeometry relative="1" as="geometry" />
@@ -521,35 +506,8 @@
         <mxCell id="gPIbppBy656NcaDnPqYF-18" value="Read item label when buying the item" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;isLoopSub=1;fontSize=10;verticalAlign=top;" vertex="1" parent="gPIbppBy656NcaDnPqYF-9">
           <mxGeometry x="80" y="37.5" width="100" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="gPIbppBy656NcaDnPqYF-19" value="Farmer" style="swimlane;horizontal=0;startSize=23;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="110" y="674" width="880" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="gPIbppBy656NcaDnPqYF-20" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FF0000;" vertex="1" parent="gPIbppBy656NcaDnPqYF-19">
-          <mxGeometry x="40" y="40" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="gPIbppBy656NcaDnPqYF-21" value="Send goods according to the label" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;fontSize=10;" vertex="1" parent="gPIbppBy656NcaDnPqYF-19">
-          <mxGeometry x="280" y="37.5" width="100" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="gPIbppBy656NcaDnPqYF-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=10;" edge="1" parent="gPIbppBy656NcaDnPqYF-19" source="gPIbppBy656NcaDnPqYF-23" target="gPIbppBy656NcaDnPqYF-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gPIbppBy656NcaDnPqYF-23" value="Create Item Label" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;isLoopSub=1;fontSize=10;" vertex="1" parent="gPIbppBy656NcaDnPqYF-19">
-          <mxGeometry x="120" y="37.5" width="100" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="gPIbppBy656NcaDnPqYF-24" value="" style="fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="gPIbppBy656NcaDnPqYF-19" target="gPIbppBy656NcaDnPqYF-23">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="80" y="59.5" as="sourcePoint" />
-            <mxPoint x="240" y="59.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gPIbppBy656NcaDnPqYF-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="gPIbppBy656NcaDnPqYF-21" target="gPIbppBy656NcaDnPqYF-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gPIbppBy656NcaDnPqYF-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="gPIbppBy656NcaDnPqYF-4" target="gPIbppBy656NcaDnPqYF-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="gPIbppBy656NcaDnPqYF-27" value="Customer" style="swimlane;horizontal=0;startSize=23;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="110" y="34" width="880" height="120" as="geometry" />
+          <mxGeometry x="120" y="200" width="880" height="120" as="geometry" />
         </mxCell>
         <mxCell id="gPIbppBy656NcaDnPqYF-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="gPIbppBy656NcaDnPqYF-27" source="gPIbppBy656NcaDnPqYF-29" target="gPIbppBy656NcaDnPqYF-30">
           <mxGeometry relative="1" as="geometry" />
