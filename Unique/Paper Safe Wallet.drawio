@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-24T04:07:30.839Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="sNCJ2aO9bQm5VD_pejmE" version="21.2.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-04-24T04:18:17.868Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="TJRCJHHaLo_kqr2GoSgg" version="21.2.1" type="github" pages="5">
   <diagram name="Safe Architecture" id="IOx3L2gT1lAjid3hQ-a9">
     <mxGraphModel dx="880" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -587,21 +587,20 @@
         <mxCell id="BXm8UtNNB8Wd1EMlwpw6-14" value="Scan QR Code" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;fontSize=10;" parent="BXm8UtNNB8Wd1EMlwpw6-12" vertex="1">
           <mxGeometry x="120" y="37.5" width="100" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="BXm8UtNNB8Wd1EMlwpw6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="BXm8UtNNB8Wd1EMlwpw6-12" source="BXm8UtNNB8Wd1EMlwpw6-16" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="60" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="ZDm7gutOcrtr3Bluihq1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="BXm8UtNNB8Wd1EMlwpw6-12" source="BXm8UtNNB8Wd1EMlwpw6-16" target="ZDm7gutOcrtr3Bluihq1-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BXm8UtNNB8Wd1EMlwpw6-16" value="Receive the food and label according to what was purchased" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;fontSize=10;" parent="BXm8UtNNB8Wd1EMlwpw6-12" vertex="1">
+        <mxCell id="BXm8UtNNB8Wd1EMlwpw6-16" value="Receiving food information." style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;fontSize=10;" parent="BXm8UtNNB8Wd1EMlwpw6-12" vertex="1">
           <mxGeometry x="280" y="37.5" width="100" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="BXm8UtNNB8Wd1EMlwpw6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="BXm8UtNNB8Wd1EMlwpw6-12" source="BXm8UtNNB8Wd1EMlwpw6-18" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="60" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="ZDm7gutOcrtr3Bluihq1-1" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=throwing;symbol=general;" vertex="1" parent="BXm8UtNNB8Wd1EMlwpw6-12">
+          <mxGeometry x="440" y="40" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BXm8UtNNB8Wd1EMlwpw6-18" value="Read food label" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;isLoopSub=1;fontSize=10;verticalAlign=top;" parent="BXm8UtNNB8Wd1EMlwpw6-12" vertex="1">
-          <mxGeometry x="440" y="37.5" width="100" height="45" as="geometry" />
+        <mxCell id="ZDm7gutOcrtr3Bluihq1-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="BXm8UtNNB8Wd1EMlwpw6-12" source="ZDm7gutOcrtr3Bluihq1-3" target="BXm8UtNNB8Wd1EMlwpw6-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDm7gutOcrtr3Bluihq1-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="BXm8UtNNB8Wd1EMlwpw6-12">
+          <mxGeometry x="40" y="40" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="M0x1p9m6EygUZYS2mys4-1" value="CMS System" style="swimlane;startSize=20;horizontal=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="120" y="360" width="880" height="120" as="geometry" />
