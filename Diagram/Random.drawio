@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-25T20:32:17.002Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="dJz4CvFejHFkLpzYcUby" version="21.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-25T20:33:29.864Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="b7icxgQkFO9hACXm3Dst" version="21.2.7" type="github">
   <diagram name="Page-1" id="U1jJ64q0Rm0-_pvLfdFq">
     <mxGraphModel dx="1467" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -44,10 +44,10 @@
         <mxCell id="49Z1_xxK6Z33B21vZrRt-3" value="" style="image;html=1;image=img/lib/clip_art/people/Worker_Man_128x128.png" vertex="1" parent="1">
           <mxGeometry x="560" y="80" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="49Z1_xxK6Z33B21vZrRt-4" value="" style="image;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Heart.svg;" vertex="1" parent="1">
+        <mxCell id="49Z1_xxK6Z33B21vZrRt-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Produk E-Finance&lt;/font&gt;" style="image;html=1;points=[];align=center;fontSize=18;image=img/lib/azure2/general/Heart.svg;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="280" y="80" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="49Z1_xxK6Z33B21vZrRt-5" value="" style="image;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Load_Test.svg;" vertex="1" parent="1">
+        <mxCell id="49Z1_xxK6Z33B21vZrRt-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Produk B&lt;/font&gt;" style="image;html=1;points=[];align=center;fontSize=14;image=img/lib/azure2/general/Load_Test.svg;" vertex="1" parent="1">
           <mxGeometry x="280" y="200" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="49Z1_xxK6Z33B21vZrRt-6" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Quickstart_Center.svg;" vertex="1" parent="1">
