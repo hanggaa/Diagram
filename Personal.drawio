@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-19T10:54:32.445Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="4w34X4Z-boplBSJMdymE" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-19T11:51:50.820Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="sy87ah_qcYSFk_8WijjB" version="21.7.5" type="github">
   <diagram name="Page-1" id="_xVrftXHtBA14w__Zcmd">
     <mxGraphModel dx="1035" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -51,13 +51,13 @@
           <mxGeometry x="360" y="200" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lTfHK-Skdd9jw6mh1iIN-15" value="Education" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="280" width="80" height="40" as="geometry" />
+          <mxGeometry x="360" y="440" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lTfHK-Skdd9jw6mh1iIN-16" value="Skills" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="360" width="80" height="40" as="geometry" />
+          <mxGeometry x="360" y="520" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lTfHK-Skdd9jw6mh1iIN-17" value="Relevant Certifications" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="440" width="80" height="40" as="geometry" />
+          <mxGeometry x="360" y="600" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lTfHK-Skdd9jw6mh1iIN-18" value="Professional Summary" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="120" width="80" height="40" as="geometry" />
@@ -66,13 +66,13 @@
           <mxGeometry x="600" y="200" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lTfHK-Skdd9jw6mh1iIN-20" value="Education" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="280" width="80" height="40" as="geometry" />
+          <mxGeometry x="600" y="440" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lTfHK-Skdd9jw6mh1iIN-21" value="Skills" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="360" width="80" height="40" as="geometry" />
+          <mxGeometry x="600" y="520" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lTfHK-Skdd9jw6mh1iIN-22" value="Relevant Certifications" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="440" width="80" height="40" as="geometry" />
+          <mxGeometry x="600" y="600" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
